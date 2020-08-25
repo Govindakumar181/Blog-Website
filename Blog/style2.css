@@ -287,6 +287,14 @@ button:focus {
  
 }
 
+.banner-head{
+  background-image: url(banner.jpg);
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
  
- 
+.header-text-holder, .subscribe-holder{
+  text-align: center;
+}
  
